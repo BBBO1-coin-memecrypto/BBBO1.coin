@@ -6,8 +6,8 @@
 ## 2. 代幣資訊
 - 名稱：巴巴博一
 - 代號：BBBO1
-- 鏈：Solana（SPL Token + Metaplex Metadata）
-- Mint：HK9L8mMCwPxU1HtaArnPidtAwv9ubLTdpi9HsjGM2HGr
+- 鏈：Solana（Token-2022）
+- Mint：BkkUEx35eUVZZib17Ty9VjfJsTijgQHqKEUCTNP3bwHh
 - 總量：30,000,000,000
 - 小數位：7
 - 供給：固定總量（關閉 mint authority）
