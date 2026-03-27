@@ -1,0 +1,17 @@
+{
+  "name": "巴巴博一",
+  "symbol": "BBBO1",
+  "description": "巴巴博一 meme 幣。",
+  "image": "https://raw.githubusercontent.com/0974133050j-cyber/BBBO1.coin/main/assets/bababoyi.png",
+  "external_url": "https://raw.githubusercontent.com/0974133050j-cyber/BBBO1.coin/main/index.html",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Distribution",
+      "value": "70% 流動性與公開流通 / 15% 社群激勵 / 10% 生態營運 / 5% 團隊預留"
+    }
+  ]
+}
