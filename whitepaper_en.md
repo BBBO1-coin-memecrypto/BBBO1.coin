@@ -15,10 +15,10 @@ BBBO1 is a Solana-based meme coin focused on community participation and meme cu
 
 ## 3. Token Allocation
 The allocation plan is intended to support liquidity, community growth, and operational needs:
-- 70%: Liquidity and public circulation (DEX liquidity + market circulation)
-- 15%: Community incentives (events, airdrops, missions)
-- 10%: Treasury/Operations (website, community operations, promotion)
-- 5%: Team reserve (anonymous team; recommended vesting)
+- 33%: Liquidity and public circulation (DEX liquidity + market circulation)
+- 25%: Community incentives (events, airdrops, missions)
+- 22%: Treasury/Operations (website, community operations, promotion)
+- 20%: Team reserve (anonymous team; recommended vesting)
 
 Allocations are a public commitment and are intended to be reflected in on-chain transfers and public wallet disclosures.
 
