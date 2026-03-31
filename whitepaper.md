@@ -32,6 +32,7 @@
 ## 6. 官方連結
 - 官網：https://bbbo1-coin-memecrypto.github.io/BBBO1.coin/
 - 白皮書（Raw）：https://raw.githubusercontent.com/BBBO1-coin-memecrypto/BBBO1.coin/main/whitepaper.md
+- English Whitepaper（Raw）：https://raw.githubusercontent.com/BBBO1-coin-memecrypto/BBBO1.coin/main/whitepaper_en.md
 - 原始碼：https://github.com/BBBO1-coin-memecrypto/BBBO1.coin
 - Twitter：https://twitter.com/BBBO1_COIN
 
