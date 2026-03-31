@@ -1,7 +1,7 @@
 # BBBO1 Litepaper (English)
 
 ## 1. Overview
-BBBO1 is a Solana-based meme coin focused on community and meme culture. The goal is to build a fun, participatory, and tradable community token with transparent on-chain operations.
+BBBO1 is a Solana-based meme coin focused on community participation and meme culture. The project’s goal is to create a fun, accessible, and tradable community token with transparent on-chain operations. BBBO1 does not claim to be a financial product or a platform token. It is designed primarily for social engagement, community activities, and cultural expression within the Solana ecosystem. All key on-chain information, including supply and mint configuration, can be verified through public explorers.
 
 ## 2. Token Information
 - Name: BBBO1
@@ -10,17 +10,20 @@ BBBO1 is a Solana-based meme coin focused on community and meme culture. The goa
 - Mint: BkkUEx35eUVZZib17Ty9VjfJsTijgQHqKEUCTNP3bwHh
 - Total Supply: 30,000,000,000
 - Decimals: 7
-- Supply: Fixed (mint authority disabled)
+- Supply Policy: Fixed (mint authority disabled)
 - Burnable: Holders can burn their own tokens
 
 ## 3. Token Allocation
+The allocation plan is intended to support liquidity, community growth, and operational needs:
 - 70%: Liquidity and public circulation (DEX liquidity + market circulation)
 - 15%: Community incentives (events, airdrops, missions)
-- 10%: Treasury/Operations (website, community ops, promotion)
+- 10%: Treasury/Operations (website, community operations, promotion)
 - 5%: Team reserve (anonymous team; recommended vesting)
 
+Allocations are a public commitment and are intended to be reflected in on-chain transfers and public wallet disclosures.
+
 ## 4. Team
-Anonymous team focused on community and product execution, with transparency through public links and verifiable on-chain data.
+BBBO1 is initiated by an anonymous team that focuses on community building and transparent delivery. The team aims to provide clear, verifiable information through public links and on-chain records. Community feedback and engagement are considered core inputs to future updates.
 
 ## 5. Roadmap
 - Launch website (simple landing page)
@@ -29,6 +32,8 @@ Anonymous team focused on community and product execution, with transparency thr
 - Build liquidity
 - Explore CEX listing
 
+The roadmap is indicative and may be adjusted based on community feedback and practical constraints.
+
 ## 6. Official Links
 - Website: https://bbbo1-coin-memecrypto.github.io/BBBO1.coin/
 - Whitepaper (EN raw): https://raw.githubusercontent.com/BBBO1-coin-memecrypto/BBBO1.coin/main/whitepaper_en.md
@@ -36,4 +41,4 @@ Anonymous team focused on community and product execution, with transparency thr
 - Twitter: https://twitter.com/BBBO1_COIN
 
 ## 7. Risk Disclaimer
-This is a meme coin. Prices can be highly volatile. This is not investment advice. Please assess your own risk.
+BBBO1 is a meme coin. Prices can be highly volatile. This document is for informational purposes only and does not constitute financial advice. Participants should assess their own risk and comply with applicable regulations in their jurisdiction.
