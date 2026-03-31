@@ -29,5 +29,11 @@
 - 建立流動性
 - 嘗試上 CEX
 
-## 6. 風險與聲明
+## 6. 官方連結
+- 官網：https://bbbo1-coin-memecrypto.github.io/BBBO1.coin/
+- 白皮書（Raw）：https://raw.githubusercontent.com/BBBO1-coin-memecrypto/BBBO1.coin/main/whitepaper.md
+- 原始碼：https://github.com/BBBO1-coin-memecrypto/BBBO1.coin
+- Twitter：https://twitter.com/BBBO1_COIN
+
+## 7. 風險與聲明
 本專案為純 meme 幣，價格波動風險高，不構成任何投資建議。參與者應自行評估風險。
