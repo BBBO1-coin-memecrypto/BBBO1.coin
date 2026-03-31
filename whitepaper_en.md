@@ -18,8 +18,8 @@ The allocation plan is intended to support liquidity, community growth, and oper
 - 33%: Liquidity and public circulation (DEX liquidity + market circulation)
 - 15%: Community incentives (events, airdrops, missions)
 - 7%: Treasury/Operations (website, community operations, promotion)
-- 25%: Team reserve (anonymous team; recommended vesting)
-- 20%: Timed vesting release (recommended linear vesting)
+- 25%: Team reserve (anonymous team)
+- 20%: Timed vesting release
 
 Allocations are a public commitment and are intended to be reflected in on-chain transfers and public wallet disclosures.
 
