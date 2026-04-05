@@ -1,11 +1,11 @@
-# Bababooey (BBBO1) Litepaper
+# Bababooey (Bababooey) Litepaper
 
 ## 1. Overview
 Bababooey is a Solana-based meme coin focused on community participation and meme culture. The project’s goal is to create a fun, accessible, and tradable community token with transparent on-chain operations. Bababooey does not claim to be a financial product or a platform token. It is designed primarily for social engagement, community activities, and cultural expression within the Solana ecosystem. All key on-chain information, including supply and mint configuration, can be verified through public explorers.
 
 ## 2. Token Information
 - Name: Bababooey
-- Symbol: BBBO1
+- Symbol: Bababooey
 - Chain: Solana (Token-2022)
 - Mint: BkkUEx35eUVZZib17Ty9VjfJsTijgQHqKEUCTNP3bwHh
 - Total Supply: 30,000,000,000
