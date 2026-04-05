@@ -1,10 +1,10 @@
-# 巴巴博一（BBBO1）Litepaper
+# Bababooey（BBBO1）Litepaper
 
 ## 1. 專案簡介
-巴巴博一是基於 Solana 的純 meme 幣，核心價值來自社群與迷因文化。專案目標是建立有趣、可參與、可流通的社群代幣，並以透明的鏈上操作建立信任。
+Bababooey 是基於 Solana 的純 meme 幣，核心價值來自社群與迷因文化。專案目標是建立有趣、可參與、可流通的社群代幣，並以透明的鏈上操作建立信任。
 
 ## 2. 代幣資訊
-- 名稱：巴巴博一
+- 名稱：Bababooey
 - 代號：BBBO1
 - 鏈：Solana（Token-2022）
 - Mint：BkkUEx35eUVZZib17Ty9VjfJsTijgQHqKEUCTNP3bwHh
